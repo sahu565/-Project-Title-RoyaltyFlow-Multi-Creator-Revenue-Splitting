@@ -1,4 +1,4 @@
-se# Project Title: RoyaltyFlow: Multi-Creator Revenue Splitting
+huse# Project Title: RoyaltyFlow: Multi-Creator Revenue Splitting
 
 ## Project Description
 
