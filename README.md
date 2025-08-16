@@ -27,3 +27,4 @@ To streamline fair revenue distribution for collaborative works across art, musi
 ![alt text](image.png)
 
 
+
