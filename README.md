@@ -1,4 +1,4 @@
-huse# Project Title: RoyaltyFlow: Multi-Creator Revenue Splitting
+# Project Title: RoyaltyFlow: Multi-Creator Revenue Splitting
 
 ## Project Description
 
@@ -25,7 +25,7 @@ To streamline fair revenue distribution for collaborative works across art, musi
 ## Contract Details
 0xda3a6e2A76AA796EC27f28f88629A1adc23625F1
 ![alt text](image.png)
-Poonam sahu
+Poonamsahu
 
 
 
